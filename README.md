@@ -24,6 +24,20 @@ Quick access to safety policies and workers compensation insurance research for 
 - 30-minute monthly safety meetings mandatory
 - All PPE provided free
 
+### [CM&F vs Insureon Comparison](./Insurance_Comparison_CMF_vs_Insureon.md) ⭐ NEW
+**Detailed comparison for 2 nurses + 1 non-skilled employee** covering:
+- General & Professional Liability Insurance
+- Workers Compensation Insurance
+- Cyber Liability Insurance
+- Side-by-side pricing estimates
+- Strengths & weaknesses analysis
+- Final recommendations
+
+**Quick Verdict:**
+- **CM&F:** Healthcare specialist, A++ rated, higher limits, $3,200-$5,400/year
+- **Insureon:** Fast online quotes, multi-carrier comparison, $5,050-$6,800/year
+- **Recommendation:** Get quotes from both, CM&F likely better for healthcare specialization
+
 ### [Workers Compensation Insurance Options](./Workers_Comp_Guide.md)
 **Comparison of 15+ insurance providers** with:
 - Tier 1: Home health specialists (PIE, AmTrust, Markel, Hartford, Travelers, Accident Fund)
