@@ -7,6 +7,15 @@ Quick access to safety policies and workers compensation insurance research for 
 
 ## 📚 Documents
 
+### [Claude Code Capabilities](./CLAUDE_CODE_CAPABILITIES.md) 🆕
+**Complete system inventory** including:
+- Built-in tools (Read, Write, Edit, Bash, WebSearch, etc.)
+- Sub-agents (Explore, Plan, general-purpose)
+- MCP Servers (GitHub integration)
+- Skills (26 available, 2 enabled)
+- Slash commands & permissions
+- Usage guide and quick reference
+
 ### [Safety Program](./Safety_Program.md) - Complete Safety Policies
 **All-in-one safety manual** covering:
 - Patient Handling & Lifting
