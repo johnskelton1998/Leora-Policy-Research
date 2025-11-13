@@ -33,7 +33,26 @@ Quick access to safety policies and workers compensation insurance research for 
 - 30-minute monthly safety meetings mandatory
 - All PPE provided free
 
-### [CM&F vs Insureon: Evidence-Based Research Analysis](./CMF_vs_Insureon_Research_Analysis.md) ⭐ NEW - COMPREHENSIVE
+### [Financial Analysis & Pricing Strategy](./Financial_Analysis_Pricing_Strategy.md) 💰 NEW - FOR CASH-STRAPPED STARTUPS
+**Finance planner and pricing specialist review** including:
+- Cash flow optimization strategies (save $1,640-$2,460 Year 1)
+- Phased insurance implementation (Months 1-12 timeline)
+- Pay-As-You-Go recommendations ($0 down, save $600-$800 Q1)
+- Pricing packages with insurance costs built-in
+- Monthly cash flow budgets and break-even analysis
+- CM&F vs Insureon financial comparison (start lean, upgrade when stable)
+- Growth model showing per-employee cost decreases at scale
+- Red flag analysis (Insureon pricing discrepancies, missing costs)
+- 12-week implementation timeline with decision frameworks
+
+**Key Financial Insights:**
+- **Insurance cost per hour:** $1.10 (easily absorbed in $28-$135/hr rates)
+- **Year 1 strategy:** Insureon + NEXT PAYG = $3,780/year (save $1,220-$2,220)
+- **Year 2 strategy:** Upgrade to CM&F + Texas Mutual = $4,130/year (better protection)
+- **Service packages:** Essential ($760), Comprehensive ($1,420), Maximum ($2,780)
+- **Break-even:** $12,543/month revenue (achievable at 50-60% utilization)
+
+### [CM&F vs Insureon: Evidence-Based Research Analysis](./CMF_vs_Insureon_Research_Analysis.md) ⭐ COMPREHENSIVE
 **Complete research report with 60+ citations** including:
 - 2025 market trends & healthcare insurance landscape
 - Customer experience analysis (8,000+ CM&F reviews vs mixed Insureon feedback)
