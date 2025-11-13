@@ -33,7 +33,22 @@ Quick access to safety policies and workers compensation insurance research for 
 - 30-minute monthly safety meetings mandatory
 - All PPE provided free
 
-### [CM&F vs Insureon Comparison](./Insurance_Comparison_CMF_vs_Insureon.md) ⭐ NEW
+### [CM&F vs Insureon: Evidence-Based Research Analysis](./CMF_vs_Insureon_Research_Analysis.md) ⭐ NEW - COMPREHENSIVE
+**Complete research report with 60+ citations** including:
+- 2025 market trends & healthcare insurance landscape
+- Customer experience analysis (8,000+ CM&F reviews vs mixed Insureon feedback)
+- Financial strength comparison (CM&F A++ guaranteed vs Insureon carrier-dependent)
+- Claims handling deep-dive (minutes response vs variable carrier service)
+- Real customer testimonials (verified reviews from 2025)
+- Red flags & concerns for both companies
+- Evidence-based final recommendations with implementation timeline
+
+**Research Findings:**
+- **CM&F Group:** 4.8/5 stars, A++ rated, $4,200/year est., healthcare specialist since 1919
+- **Insureon:** Mixed reviews, 2025 service concerns, $4,500-$6,000/year, general marketplace
+- **Final Recommendation:** CM&F for healthcare agencies (specialization + proven track record)
+
+### [CM&F vs Insureon Comparison](./Insurance_Comparison_CMF_vs_Insureon.md) - QUICK REFERENCE
 **Detailed comparison for 2 nurses + 1 non-skilled employee** covering:
 - General & Professional Liability Insurance
 - Workers Compensation Insurance
